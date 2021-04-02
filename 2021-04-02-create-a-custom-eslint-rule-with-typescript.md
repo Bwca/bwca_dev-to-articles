@@ -4,7 +4,7 @@ Creating custom eslint rules can often come handy. I enjoy using typescript, so 
 
 ## Step one
 
-Create a repo and install dependencies:
+Create a repo and initialise an npm package in it:
 
 ```bash
 mkdir my-awesome-eslint-rule && cd my-awesome-eslint-rule && npm init -y
