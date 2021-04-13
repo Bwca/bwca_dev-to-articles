@@ -31,7 +31,7 @@ export type PropertyStringPath<T, Prefix=''> = {
 }[keyof T];
 ```
 
-Basically what it does is iterating over object's properties and returning each field as a string with a given prefix. Initially the prefix is empty string, which is nothing. If it encounters a primitive or an array, it returns a string with prefix, if it encounters an object, it then invokes itself recursively. Easy-peasy.
+Basically what it does is iterating over object's properties and returning each field as a string with a given prefix. Initially the prefix is empty string, which is nothing. If it encounters a primitive or an array, it returns a string with prefix, if it encounters an object, it then invokes itself recursively, but adds a dot to the prefix. Easy-peasy.
 
 Now what's left to do is to create a simple factory that can generate us helper functions to provide hints:
 
