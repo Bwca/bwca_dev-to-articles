@@ -1,24 +1,19 @@
-# Split collection based on enum value
-
 Enumerations are an awesome feature of typescript, you can create a set of distinct cases with numeric or string-based enums.
 
 For example, if you're working on a game of cards and figure out you could actully use `enum` to define the suits:
 
 ```ts
 enum Suit {
-  Clubs = 'clubs',
-  Spades = 'spades',
-  Diamonds = 'diamonds',
-  Hearts = 'hearts',
+  Clubs = '♣️',
+  Spades = '♠️',
+  Diamonds = '♦️',
+  Hearts = '♥️',
 }
 ```
 
 Now, if you have a collection of objects and each object in the collection has a value represented by an enum, you can actually write a pretty neat function to split it into smaller collections, each limited to a certain `enum` value. In our case we could split a deck of cards into clubs, spades, diamods and hearts correspondently.
 
-For the sake of simplicity our deck will have only 4 cards, namely 4 aces, one from each suit:
-
-<details>
-    <summary>Here's our small deck.</summary>
+For the sake of simplicity our deck will have only 4 cards, namely 4 aces, one from each suit, here's our small deck:
 
 ```ts
 interface Card {
@@ -46,16 +41,14 @@ const deck: Card[] = [
 ];
 ```
 
-</details>
-
 With typescript we will be looking forward to obtaining somehow strongly typed object that would be of the following interface:
 
 ```ts
 {
-    clubs: Card[],
-    spades: Card[],
-    diamonds: Card[],
-    hearts: Card[],
+  '♣️': Card[],
+  '♠️': Card[],
+  '♦️': Card[],
+  '♥️': Card[],
 }
 ```
 
@@ -95,11 +88,12 @@ function groupItemsBy<T, P extends PropertyKey>(items: T[], groupingKey: keyof T
 }
 ```
 
-
 Now we can easily split our deck by suit:
 
 ```ts
-const { clubs, diamonds, hearts, spades } = groupItemsBy<Card, Suit>(deck, 'suit', Suit);
+const { "♣️": clubs, "♦️": diamonds, "♥️": hearts, "♠️": spades } = groupItemsByProperty<Card, Suit>(deck, 'suit', Suit);
 ```
 
-Doesn't look difficult at all, does it?)
+Doesn't look difficult at all, does it? What's cool is the we've got intellisense all the way :)
+
+Oh, you can also check it out in the [typescript playground](https://www.typescriptlang.org/play?#code/KYOwrgtgBAymCWAXKBvAUFKBhANmARgM5QC8UA5IMZkg8H-kA0GsADgIYAmwxZ5gBmS0OYAIvBYQA9iDZcKgMzJ+jABLAWAJ0TTygUzJ5AXzRp4IRMBUAzFgGNg2VW1SMQo4AC4ohRCsMBzANyNCCIiucEh+emgWEu5QHBYA1q5YtgDaALqkUMmM6JiYjhAuFACCVvSMmAFIwYEAdLgEhIw6Ava5UPmF5CXAZW2VQbC1wqISUk0tObkdrl2lLRWB1Ug1Sqrq49nl7U4z3b25-UuINTCsHI2Yeql++pEg0ShQAEQ0T64WeER0z3JvMSLiSSEb5PbR-AAWyjUwOefD+hDOnCgOgyXhUYjATAAksYIIQAEIATwACuimCZEISADxJFRsb4hRAAPgAFLE4t9yP16IMkABKG53QhiHDAGo4MReFkfBoCiJREViiVStgA0aEOVCxXiyUsyFrDV+LWinVShHsThy-RoUxgEAWRDwCRQNEY7G4gkkskU6kAFW+xKgwAAHsYgVBSWJyWpCQBpYCE1lIYB41y+tLfV2Y7zxwmuOIJsSmKD+oPgVwAJWAkTpVPcnhAXm+9e8TL5rgA4ujMcA2AA1Fh4ThU4nfdOpJmtKBC5AqThgHADLtu3sDoeEEdjtKTsgAeXwACtq8cAG6DsCcFmgMB8mpzthgKwslksTvd8n98-D0cl7fffB8qQk6TJgLDJPgUAsMQxLpGQaR+G0c6IGAKggJBCHIt8KAolBUDLj2n7rpuv4TlamDJniNSmGIKgAKKWOCLLwEBU6YDOUAFoSGTwMkWZMDmCbpLhdpxCAYgAO5obhxIYZgc4BIuyScakNRMGAhCMfAcqXGRUBIShaHyQuiBhPolLknh76rl+G6+kGoagFIEbejGubfH2O5TsksZQIYJapK4fZoDoQA).
