@@ -1,4 +1,4 @@
-# Implementing Reach Check Permissions. Part 1: Chek Permissions Function
+# Implementing React Check Permissions. Part 1: Check Permissions Function
 
 You can follow the code in this article in the [commit](https://github.com/Bwca/implementing-react-check-permissions/commit/067058c0129a4d64ed73db3ddc354bfed2d1f56d) in the repo I made for the series.
 
@@ -37,7 +37,7 @@ export function checkPermissions(
 ): boolean;
 ```
 
-We definitely want to have the current permissions the use has, yet, as for required permissions we'll be handling even cases when there are no required permissions. We also provide a boolean flag `checkAll` for cases when we want to ensure use has one of the required permissions, but not necessary all. By defaul we'll be checking all required permissions, but we are flexible enough to check just some.
+We definitely want to have the current permissions the use has, yet, as for required permissions we'll be handling even cases when there are no required permissions. We also provide a boolean flag `checkAll` for cases when we want to ensure use has one of the required permissions, but not necessary all. By default we'll be checking all required permissions, but we are flexible enough to check just some.
 
 The whole function body is pretty small, under 20 lines of code:
 
@@ -74,7 +74,7 @@ Now, looking at the actual function you might be asking, why are we using arrays
 
 Who knows, perhaps converting both arrays to sets and checking them could even take more time than iterating over two small arrays. I have not tested it, but I digress.
 
-Good, we now have a function, let us now add some tests to ensure it actuall works as we expect.
+Good, we now have a function, let us now add some tests to ensure it actually works as we expect.
 
 We will have small four test cases written with AAA methodology for readability:
 
