@@ -59,7 +59,7 @@ export function createCheckPermissionsHook(
 }
 ```
 
-So we expect to be given a fuction for obtaining current user permissions and return a hook exposing `checkPermissions` method, which in its term invokes the `checkPermissions` function from the previos article.
+So we expect to be given a function for obtaining current user permissions and return a hook exposing `checkPermissions` method, which in its term invokes the `checkPermissions` function from the previous article.
 
 To ensure everything works as expected, we can now add some test cases, which are basically a copy of `checkPermissions` function tests, but altered so they apply to our hook. Note, that in order to test hooks we are going to need a special package, `@testing-library/react-hooks/dom`.
 
