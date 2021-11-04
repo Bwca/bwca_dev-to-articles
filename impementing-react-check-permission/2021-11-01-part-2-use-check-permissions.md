@@ -44,6 +44,7 @@ export * from "./use-check-permissions";
 Our hook factory is going to live in `create-check-permissions-hook` folder next to an index file for exports and a file with tests.
 
 ```typescript
+// ./permissions-validation/create-check-permissions-hook/create-check-permissions-hook.function.ts
 import { checkPermissions } from "../check-permissions";
 import { GetPermissions, UseCheckPermissions } from "../models";
 
@@ -64,6 +65,7 @@ So we expect to be given a function for obtaining current user permissions and r
 To ensure everything works as expected, we can now add some test cases, which are basically a copy of `checkPermissions` function tests, but altered so they apply to our hook. Note, that in order to test hooks we are going to need a special package, `@testing-library/react-hooks/dom`.
 
 ```typescript
+// ./permissions-validation/create-check-permissions-hook/create-check-permissions-hook.function.spec.ts
 import { renderHook } from "@testing-library/react-hooks/dom";
 
 import { createCheckPermissionsHook } from "./create-check-permissions-hook.function";
