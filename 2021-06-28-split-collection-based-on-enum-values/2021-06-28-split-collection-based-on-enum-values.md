@@ -1,3 +1,7 @@
+![An image depicting enums](./header.jpg)
+
+# Split collection based on enum value with typescript
+
 Enumerations are an awesome feature of typescript, you can create a set of distinct cases with numeric or string-based enums.
 
 For example, if you're working on a game of cards and figure out you could actully use `enum` to define the suits:

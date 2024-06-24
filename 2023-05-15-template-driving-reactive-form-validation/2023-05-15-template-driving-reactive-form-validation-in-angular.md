@@ -4,7 +4,7 @@ Form validation is a huge part of good UX and a major pain in the neck for front
 
 Let's take the following form as an example:
 
-![alt text](./01.jpg)
+![Image of a form](./01.jpg)
 
 Consider the following interface representing the form value:
 

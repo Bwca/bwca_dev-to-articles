@@ -1,3 +1,5 @@
+![Header image depicting a React component created with a cli command](./header.jpg)
+
 # How I decided to write react cli and how it went
 
 Perhaps I am spoiled beyond salvation by angular cli, which is an incredible tool that lets you create components with as little as some keystrokes, but every time I need to create a react component, I found the process quite tedious and repetitive.

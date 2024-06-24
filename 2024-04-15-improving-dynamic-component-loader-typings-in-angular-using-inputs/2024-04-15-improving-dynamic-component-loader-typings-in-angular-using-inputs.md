@@ -1,4 +1,8 @@
+![A synthwave styled image of a biker skull](./header.png)
+
 # Improving Dynamic Component Loader Typings in Angular Using Inputs
+
+Cover image by Google's Gemini, I have no idea why it is a skull.
 
 When I first read about signals in Angular, I was not very amused about two ways of declaring inputs and outputs on the component. However, I figured I would figure out something interesting with those eventually, and I actually did.
 

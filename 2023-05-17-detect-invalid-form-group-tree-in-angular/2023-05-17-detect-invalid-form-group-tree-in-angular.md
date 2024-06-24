@@ -1,6 +1,10 @@
+![An AI generated image depicting some foggy mystical forest](./header.jpg)
+
 # Detect Invalid FormGroup Tree in Angular
 
 In this article I am sharing the product of my laziness.
+
+TL/DR source code and small demo can be found [here](https://github.com/Bwca/script_detect-invalid-form-group-in-angular).
 
 Eventually every frontend developer who works with forms faces a problem of an invalid form. A classic scenario would be a bug from QAs with submit button being disabled for no apparent reason. You go to the code to find out the condition for the submit button to be disabled is the form being invalid. 
 

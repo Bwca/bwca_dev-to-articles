@@ -1,3 +1,5 @@
+![An animated image displaying intellisense hints for object property paths](./header.gif)
+
 # Create object property string path generator with typescript
 
 Wow, that was a large noun cluster. Well, what is it anyway?
