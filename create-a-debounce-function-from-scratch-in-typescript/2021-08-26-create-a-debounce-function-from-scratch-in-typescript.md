@@ -1,6 +1,6 @@
-# Create a debounce function from scratch in typescript
+# Create a Debounce Function from Scratch in Typescript
 
-Debounce function is a neat tool that can help you every time you need to deal with a large amout of events over time that you need to process, i.e. when you are dealing with user typing something in a text input, scrolling, clicking, etc.
+Debounce function is a neat tool that can help you every time you need to deal with a large amount of events over time that you need to process, i.e. when you are dealing with user typing something in a text input, scrolling, clicking, etc.
 
 Let's see how to implement a simple debounce function with typescript that is capable of turning a simple function into its debounced version. This can be done with promises and setTimeout, so do not really need any specific dependencies.
 

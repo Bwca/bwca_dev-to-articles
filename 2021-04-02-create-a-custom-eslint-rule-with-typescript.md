@@ -1,4 +1,4 @@
-# Create a custom eslint rule with typescript
+# Create a Custom eslint Rule with Typescript
 
 Creating custom eslint rules can often come handy. I enjoy using typescript, so I decided I'd share a way how to use its superpowers to create custom eslint rules.
 

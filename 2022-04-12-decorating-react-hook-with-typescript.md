@@ -1,4 +1,4 @@
-# Decorating React hook with Typescript
+# Decorating React Hook with Typescript
 
 Decorators are awesome feature of typescript and an interesting design pattern. Too bad, in typescript the coolest decorators are rather class-oriented, so what do you do if you want to decorate something in React with its more function-style way?
 

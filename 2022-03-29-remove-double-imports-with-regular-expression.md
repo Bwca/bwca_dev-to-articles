@@ -1,4 +1,4 @@
-# Remove double imports with regular expression
+# Remove Double Imports with Regular Expression
 
 One thing I learned about imports is that they can become really messy when dealing with git conflicts. The more imports there is, the more time is required to sort them out. Imagine merging a branch and ending with something like:
 

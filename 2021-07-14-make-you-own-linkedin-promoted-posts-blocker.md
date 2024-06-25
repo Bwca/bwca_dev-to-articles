@@ -1,4 +1,4 @@
-# Make your own Linkedin promoted posts blocker
+# Make Your Own Linkedin Promoted Posts Blocker
 
 So the other day I was browsing Linkedin and figured out there was a number of re-occuring posts in my feed. At first I paid no attention to them, but as they hang on for days, I took a closer look and figuired out those were promoted.
 

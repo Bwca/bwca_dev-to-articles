@@ -1,4 +1,4 @@
-# Turn Angular application into Chrome extension
+# Turn Angular Application into Chrome Extension
 
 It's pretty easy actually, this is going to be a short one.
 

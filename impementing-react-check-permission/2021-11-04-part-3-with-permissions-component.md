@@ -1,4 +1,4 @@
-# Implementing React Check Permissions. Part 3: With Permissions Component
+# Implementing React Check Permissions. Part 3: with Permissions Component
 
 You can follow the code in this article in the [commit](https://github.com/Bwca/implementing-react-check-permissions/commit/8db94681ed7aae6740fddb383de0a3b05fe43a17) in the repo I made for the series.
 
