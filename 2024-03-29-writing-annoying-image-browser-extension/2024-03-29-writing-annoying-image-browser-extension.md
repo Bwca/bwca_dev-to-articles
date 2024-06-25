@@ -1,5 +1,3 @@
-![An animated image showing a cat popping out from the screen side](./header.gif)
-
 # Annoying Cat Extension
 
 _The link to the full code for this article is at the end of this article._

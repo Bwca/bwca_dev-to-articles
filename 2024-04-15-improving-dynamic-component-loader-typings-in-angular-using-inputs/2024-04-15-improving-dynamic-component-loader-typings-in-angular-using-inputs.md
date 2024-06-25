@@ -1,5 +1,3 @@
-![A synthwave styled image of a biker skull](./header.png)
-
 # Improving Dynamic Component Loader Typings in Angular Using Inputs
 
 Cover image by Google's Gemini, I have no idea why it is a skull.

@@ -1,5 +1,3 @@
-![An AI generated synthwave style image of a room with multiple monitors](./header.jpg)
-
 # Runtime Environment Config in Angular, but without Dependency Injection
 
 Cover image by Nightcafe, because Gemeni refuses to make images :/

@@ -1,5 +1,3 @@
-![An AI generated synthwave tyle image of a bulb](./header.jpg)
-
 # Crafting a Global State Hook in React
 
 As usual, the cover image by AI, this time from Gemini.

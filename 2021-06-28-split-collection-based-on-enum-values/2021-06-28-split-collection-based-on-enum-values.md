@@ -1,5 +1,3 @@
-![An image depicting enums](./header.jpg)
-
 # Split collection based on enum value with typescript
 
 Enumerations are an awesome feature of typescript, you can create a set of distinct cases with numeric or string-based enums.

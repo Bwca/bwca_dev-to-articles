@@ -1,5 +1,3 @@
-![An AI generated image depicting some foggy mystical forest](./header.jpg)
-
 # Detect Invalid FormGroup Tree in Angular
 
 In this article I am sharing the product of my laziness.

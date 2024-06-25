@@ -1,5 +1,3 @@
-![An AI generated alchemy-styled image of some pyramids with all seeing eyes](./header.jpg)
-
 # Abstracting State Management in React with Typescript, and its Benefits
 
 _Bizarre illustration by Google Gemini AI._
