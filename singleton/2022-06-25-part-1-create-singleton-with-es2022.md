@@ -2,8 +2,8 @@
 {
   "name": "Create Singleton with ES2022",
   "series": {
-    "name: "Singleton",
-    "part": 1,
+    "name": "Singleton",
+    "part": 1
   },
   "date": "2022-06-25",
   "lastModifiedDate": "2022-07-01",

@@ -2,8 +2,8 @@
 {
   "name": "Singleton Decorator",
   "series": {
-    "name: "Singleton",
-    "part": 0,
+    "name": "Singleton",
+    "part": 0
   },
   "date": "2022-07-01",
   "lastModifiedDate": "2022-07-01",

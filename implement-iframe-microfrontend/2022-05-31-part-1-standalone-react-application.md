@@ -2,7 +2,7 @@
 {
   "name": "Iframe Microfrontends: Standalone React Application",
   "series": {
-    "name: "Iframe Microfrontends",
+    "name": "Iframe Microfrontends",
     "part": 1
   },
   "date": "2022-05-31",

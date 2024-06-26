@@ -2,7 +2,7 @@
 {
   "name": "Iframe Microfrontends: Angular Shell",
   "series": {
-    "name: "Iframe Microfrontends",
+    "name": "Iframe Microfrontends",
     "part": 2
   },
   "date": "2022-05-31",

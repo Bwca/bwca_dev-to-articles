@@ -2,7 +2,7 @@
 {
   "name": "Iframe Microfrontends: Make React App Proper Iframe",
   "series": {
-    "name: "Iframe Microfrontends",
+    "name": "Iframe Microfrontends",
     "part": 3
   },
   "date": "2022-06-01",

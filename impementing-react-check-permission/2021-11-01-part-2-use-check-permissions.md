@@ -2,7 +2,7 @@
 {
   "name": "Implementing React Check Permissions. Part 2: Check Permissions Hook",
   "series": {
-    "name: "Implementing React Check Permissions",
+    "name": "Implementing React Check Permissions",
     "part": 2
   },
   "date": "2021-11-01",

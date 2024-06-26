@@ -2,7 +2,7 @@
 {
   "name": "Create a Debounce Function from Scratch in Typescript",
   "series": {
-    "name: "Implementing Debounce with Typescript",
+    "name": "Implementing Debounce with Typescript",
     "part": 0
   },
   "date": "2021-08-26",

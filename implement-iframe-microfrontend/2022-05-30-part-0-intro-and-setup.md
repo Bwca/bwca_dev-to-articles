@@ -2,7 +2,7 @@
 {
   "name": "Iframe Microfrontends: Intro and Setup",
   "series": {
-    "name: "Iframe Microfrontends",
+    "name": "Iframe Microfrontends",
     "part": 0
   },
   "date": "2022-05-30",

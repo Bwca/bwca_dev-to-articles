@@ -2,7 +2,7 @@
 {
   "name": "Polish Types for the New Debounce Function",
   "series": {
-    "name: "Implementing Debounce with Typescript",
+    "name": "Implementing Debounce with Typescript",
     "part": 1
   },
   "date": "2022-04-06",

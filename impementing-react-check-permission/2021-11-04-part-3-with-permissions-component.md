@@ -2,7 +2,7 @@
 {
   "name": "Implementing React Check Permissions. Part 3: with Permissions Component",
   "series": {
-    "name: "Implementing React Check Permissions",
+    "name": "Implementing React Check Permissions",
     "part": 3
   },
   "date": "2021-11-04",

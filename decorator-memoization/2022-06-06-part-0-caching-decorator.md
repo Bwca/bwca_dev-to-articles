@@ -2,8 +2,8 @@
 {
   "name": "Caching Decorator",
   "series": {
-    "name: "Decorator Memoization",
-    "part": 0,
+    "name": "Decorator Memoization",
+    "part": 0
   },
   "date": "2022-06-06",
   "lastModifiedDate": "2024-06-26",

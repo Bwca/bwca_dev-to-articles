@@ -2,8 +2,8 @@
 {
   "name": "Memoize Decorator",
   "series": {
-    "name: "Decorator Memoization",
-    "part": 1,
+    "name": "Decorator Memoization",
+    "part": 1
   },
   "date": "2022-07-12",
   "lastModifiedDate": "2022-07-12",
