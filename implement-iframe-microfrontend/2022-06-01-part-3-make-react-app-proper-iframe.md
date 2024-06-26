@@ -1,3 +1,17 @@
+```ic-metadata
+{
+  "name": "Iframe Microfrontends: Make React App Proper Iframe",
+  "series": {
+    "name: "Iframe Microfrontends",
+    "part": 3
+  },
+  "date": "2022-06-01",
+  "lastModifiedDate": "2022-06-01",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "tutorial", "microfrontends", "react", "angular"]
+}
+```
+
 # Iframe Microfrontends: Make React App Proper Iframe
 
 The repo is [here](https://github.com/Bwca/demo__iframe-micro-frontends).

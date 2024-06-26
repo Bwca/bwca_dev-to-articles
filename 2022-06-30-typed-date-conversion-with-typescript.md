@@ -1,3 +1,14 @@
+```ic-metadata
+{
+  "name": "Typed Dates Conversion with Typescript",
+  "series": null,
+  "date": "2022-06-30",
+  "lastModifiedDate": "2022-06-30",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "tutorial", "generics", "conversion", "date", "moment"]
+}
+```
+
 # Typed Dates Conversion with Typescript
 
 Links to repos are in the footer of the article.

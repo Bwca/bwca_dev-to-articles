@@ -1,3 +1,14 @@
+```ic-metadata
+{
+  "name": "Safe Route Param Injection in Angular with a Decorator",
+  "series": null,
+  "date": "2023-07-22",
+  "lastModifiedDate": "2023-07-28",
+  "author": "Volodymyr Yepishev",
+  "tags": ["angular", "tutorial", "routing", "generics"]
+}
+```
+
 # Safe Route Param Injection in Angular with a Decorator
 
 The intro and last passage of this article were provided by ChatGPT, who(?) was the first one to read the article and provide feedback.

@@ -1,4 +1,18 @@
-# Polish types for the new debounce function
+```ic-metadata
+{
+  "name": "Polish Types for the New Debounce Function",
+  "series": {
+    "name: "Implementing Debounce with Typescript",
+    "part": 1
+  },
+  "date": "2022-04-06",
+  "lastModifiedDate": "2022-04-06",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "tutorial"]
+}
+```
+
+# Polish Types for the New Debounce Function
 
 There is always a room for improvement, so let's take a look what can be improved in the debounce function we've created in the previos article:
 

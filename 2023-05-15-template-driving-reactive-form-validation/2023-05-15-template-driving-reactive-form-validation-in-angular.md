@@ -1,3 +1,14 @@
+```ic-metadata
+{
+  "name": "Template Driving Reactive Form Validation in Angular",
+  "series": null,
+  "date": "2023-05-15",
+  "lastModifiedDate": "2023-05-15",
+  "author": "Volodymyr Yepishev",
+  "tags": ["angular"]
+}
+```
+
 # Template Driving Reactive Form Validation in Angular
 
 Form validation is a huge part of good UX and a major pain in the neck for frontend developers, especially when it comes to validating form controls and form groups that are dependent on each other. If this checkbox is ticked, this is mandatory, if that is not, this that is obligatory.

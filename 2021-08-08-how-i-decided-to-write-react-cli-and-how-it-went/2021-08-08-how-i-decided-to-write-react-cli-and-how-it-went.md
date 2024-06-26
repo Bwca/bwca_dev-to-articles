@@ -1,4 +1,15 @@
-# How I decided to write react cli and how it went
+```ic-metadata
+{
+  "name": "How I Decided to Write React cli and How it Went",
+  "series": null,
+  "date": "2021-08-08",
+  "lastModifiedDate": "2021-08-08",
+  "author": "Volodymyr Yepishev",
+  "tags": ["angular"]
+}
+```
+
+# How I Decided to Write React cli and How it Went
 
 Perhaps I am spoiled beyond salvation by angular cli, which is an incredible tool that lets you create components with as little as some keystrokes, but every time I need to create a react component, I found the process quite tedious and repetitive.
 

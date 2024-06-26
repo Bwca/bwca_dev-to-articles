@@ -1,4 +1,15 @@
-# Create object property string path generator with typescript
+```ic-metadata
+{
+  "name": "Create Object Property String Path Generator with Typescript",
+  "series": null,
+  "date": "2021-04-13",
+  "lastModifiedDate": "2021-04-13",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "tutorial", "angular", "react"]
+}
+```
+
+# Create Object Property String Path Generator with Typescript
 
 Wow, that was a large noun cluster. Well, what is it anyway?
 

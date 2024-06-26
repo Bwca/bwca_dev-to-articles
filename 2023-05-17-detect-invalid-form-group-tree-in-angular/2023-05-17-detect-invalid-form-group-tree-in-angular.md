@@ -1,3 +1,14 @@
+```ic-metadata
+{
+  "name": "Detect Invalid FormGroup Tree in Angular",
+  "series": null,
+  "date": "2023-05-17",
+  "lastModifiedDate": "2023-05-17",
+  "author": "Volodymyr Yepishev",
+  "tags": ["angular", "debugger"]
+}
+```
+
 # Detect Invalid FormGroup Tree in Angular
 
 In this article I am sharing the product of my laziness.

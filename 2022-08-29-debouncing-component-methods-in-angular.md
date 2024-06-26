@@ -1,3 +1,14 @@
+```ic-metadata
+{
+  "name": "Debouncing Component Methods in Angular",
+  "series": null,
+  "date": "2022-08-29",
+  "lastModifiedDate": "2022-08-29",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "angular", "tutorial"]
+}
+```
+
 # Debouncing Component Methods in Angular
 
 Using component methods is generally unwise for known reasons, yet sometimes an application can have third party components that require using component methods in template to react to outputs.

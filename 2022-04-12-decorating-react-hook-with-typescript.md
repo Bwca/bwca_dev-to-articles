@@ -1,3 +1,14 @@
+```ic-metadata
+{
+  "name": "Decorating React Hook with Typescript",
+  "series": null,
+  "date": "2022-04-12",
+  "lastModifiedDate": "2022-04-12",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "tutorial", "react"]
+}
+```
+
 # Decorating React Hook with Typescript
 
 Decorators are awesome feature of typescript and an interesting design pattern. Too bad, in typescript the coolest decorators are rather class-oriented, so what do you do if you want to decorate something in React with its more function-style way?

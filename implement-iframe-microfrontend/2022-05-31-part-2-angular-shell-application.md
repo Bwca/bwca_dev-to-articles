@@ -1,3 +1,17 @@
+```ic-metadata
+{
+  "name": "Iframe Microfrontends: Angular Shell",
+  "series": {
+    "name: "Iframe Microfrontends",
+    "part": 2
+  },
+  "date": "2022-05-31",
+  "lastModifiedDate": "2022-05-31",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "tutorial", "microfrontends", "react", "angular"]
+}
+```
+
 # Iframe Microfrontends: Angular Shell
 
 The repo is [here](https://github.com/Bwca/demo__iframe-micro-frontends).

@@ -1,3 +1,14 @@
+```ic-metadata
+{
+  "name": "Remove Double Imports with Regular Expression",
+  "series": null,
+  "date": "2022-03-29",
+  "lastModifiedDate": "2022-03-29",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "tutorial", "react"]
+}
+```
+
 # Remove Double Imports with Regular Expression
 
 One thing I learned about imports is that they can become really messy when dealing with git conflicts. The more imports there is, the more time is required to sort them out. Imagine merging a branch and ending with something like:

@@ -1,3 +1,14 @@
+```ic-metadata
+{
+  "name": "Typing Object Keys With Enum Values Using Typescript",
+  "series": null,
+  "date": "2023-11-01",
+  "lastModifiedDate": "2023-11-01",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "generics", "tutorial"]
+}
+```
+
 # Typing Object Keys With Enum Values Using Typescript
 
 Enums provide an excellent way to group constants in Typescript, but how to type objects when there is a need to use them to generate object keys? Today we will explore this.

@@ -1,3 +1,17 @@
+```ic-metadata
+{
+  "name": "Iframe Microfrontends: Standalone React Application",
+  "series": {
+    "name: "Iframe Microfrontends",
+    "part": 1
+  },
+  "date": "2022-05-31",
+  "lastModifiedDate": "2022-05-31",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "tutorial", "microfrontends", "react", "angular"]
+}
+```
+
 # Iframe Microfrontends: Standalone React Application
 
 The repo is [here](https://github.com/Bwca/demo__iframe-micro-frontends).

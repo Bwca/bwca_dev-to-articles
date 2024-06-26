@@ -1,4 +1,15 @@
-#Create a Static Class in Typescript
+```ic-metadata
+{
+  "name": "Create a Static Class in Typescript",
+  "series": null,
+  "date": "2022-08-12",
+  "lastModifiedDate": "2022-08-12",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "tutorial"]
+}
+```
+
+# Create a Static Class in Typescript
 
 You can't have `static` classes in `Typescript` out of the box, but there are several approaches to make a class that cannot be instantiated. This article is about them.
 

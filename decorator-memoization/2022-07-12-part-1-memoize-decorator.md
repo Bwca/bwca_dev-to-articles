@@ -1,3 +1,17 @@
+```ic-metadata
+{
+  "name": "Memoize Decorator",
+  "series": {
+    "name: "Decorator Memoization",
+    "part": 1,
+  },
+  "date": "2022-07-12",
+  "lastModifiedDate": "2022-07-12",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "tutorial", "decorators"]
+}
+```
+
 # Memoize Decorator
 
 The caching decorator from the previous article was fine, but there was a problem with it: it was too specific, it assumed only one primitive argument for the decorated method, so it's abilities were limited. It also had no mechanism of clearing the cache, so results would be stored until the application is torn down.

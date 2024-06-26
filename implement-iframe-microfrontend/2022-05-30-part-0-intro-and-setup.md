@@ -1,3 +1,17 @@
+```ic-metadata
+{
+  "name": "Iframe Microfrontends: Intro and Setup",
+  "series": {
+    "name: "Iframe Microfrontends",
+    "part": 0
+  },
+  "date": "2022-05-30",
+  "lastModifiedDate": "2022-05-30",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "tutorial", "microfrontends", "react", "angular"]
+}
+```
+
 # Iframe Microfrontends: Intro and Setup
 
 This is going to be split into several articles.

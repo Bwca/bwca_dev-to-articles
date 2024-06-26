@@ -1,3 +1,14 @@
+```ic-metadata
+{
+  "name": "Build Entity-Friendly react-router Paths Generator with Typescript",
+  "series": null,
+  "date": "2021-05-12",
+  "lastModifiedDate": "2021-05-12",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "tutorial", "react"]
+}
+```
+
 # Build Entity-Friendly react-router Paths Generator with Typescript
 
 So the other day I was thinking if it is possible to create a route generator that would be of any use and would respect entities in URLS, i.e. `:entity(post|article)`.

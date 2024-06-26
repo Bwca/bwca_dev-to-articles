@@ -1,3 +1,14 @@
+```ic-metadata
+{
+  "name": "Turn Angular Application into Chrome Extension",
+  "series": null,
+  "date": "2022-05-25",
+  "lastModifiedDate": "2022-05-25",
+  "author": "Volodymyr Yepishev",
+  "tags": ["angular", "tutorial", "chrome", "extension"]
+}
+```
+
 # Turn Angular Application into Chrome Extension
 
 It's pretty easy actually, this is going to be a short one.

@@ -1,3 +1,14 @@
+```ic-metadata
+{
+  "name": "Runtime Environment Config in Angular, but without Dependency Injection",
+  "series": null,
+  "date": "2024-06-08",
+  "lastModifiedDate": "2024-06-08",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "tutorial", "angular"]
+}
+```
+
 # Runtime Environment Config in Angular, but without Dependency Injection
 
 Cover image by Nightcafe, because Gemeni refuses to make images :/

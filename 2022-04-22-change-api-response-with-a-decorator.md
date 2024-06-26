@@ -1,3 +1,14 @@
+```ic-metadata
+{
+  "name": "Override Method Return with a Decorator",
+  "series": null,
+  "date": "2022-04-22",
+  "lastModifiedDate": "2022-04-22",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "tutorial"]
+}
+```
+
 # Override Method Return with a Decorator
 
 Decorators are experimental feature in typescript, so writing and relying on them might not be a good idea. Even google warns about [using them](https://google.github.io/styleguide/tsguide.html#decorators). You've been warned now.

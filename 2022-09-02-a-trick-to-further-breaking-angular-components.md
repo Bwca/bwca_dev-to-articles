@@ -1,3 +1,14 @@
+```ic-metadata
+{
+  "name": "A Trick to Further Breaking Down Angular Components",
+  "series": null,
+  "date": "2022-09-02",
+  "lastModifiedDate": "2022-09-02",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "angular"]
+}
+```
+
 # A Trick to Further Breaking Down Angular Components
 
 The usual Angular way of dealing with things is placing business logic in services and presentation logic in components. It is a good approach, as all the heavy lifting is delegated to services which are imported and re-used by different components. Yet, sometimes components start acquiring logic of their own, with time developing private methods involved with data processing on component level.

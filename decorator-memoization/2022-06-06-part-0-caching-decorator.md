@@ -1,6 +1,20 @@
+```ic-metadata
+{
+  "name": "Caching Decorator",
+  "series": {
+    "name: "Decorator Memoization",
+    "part": 0,
+  },
+  "date": "2022-06-06",
+  "lastModifiedDate": "2024-06-26",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "tutorial", "decorators"]
+}
+```
+
 # Caching Decorator
 
-Let's imagine we've got a class that does some heavy computations, since my imagination is limited, I will suggest a class that does counting (you can introduce something cooler in the comments, so I can stop embarassing myself):
+Let's imagine we've got a class that does some heavy computations, since my imagination is limited, I will suggest a class that does count (you can introduce something cooler in the comments, so I can stop embarrassing myself):
 
 ```typescript
 class CountdownCalculator {

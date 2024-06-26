@@ -1,3 +1,14 @@
+```ic-metadata
+{
+  "name": "Weekday - Date - Month type",
+  "series": null,
+  "date": "2022-07-29",
+  "lastModifiedDate": "2022-07-29",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "tutorial"]
+}
+```
+
 # Weekday - Date - Month type
 
 Suppose out of the sudden you are dealing with an object, which besides well-known fields has a number of fields which are named after the day of the week, date and month, and contain some value related to that particular day. I.e. let's say you keep a record how many times you're happy to use `Typescript` instead of pure `Javascript`:

@@ -1,3 +1,17 @@
+```ic-metadata
+{
+  "name": "Create a Debounce Function from Scratch in Typescript",
+  "series": {
+    "name: "Implementing Debounce with Typescript",
+    "part": 0
+  },
+  "date": "2021-08-26",
+  "lastModifiedDate": "2022-04-07",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "tutorial"]
+}
+```
+
 # Create a Debounce Function from Scratch in Typescript
 
 Debounce function is a neat tool that can help you every time you need to deal with a large amount of events over time that you need to process, i.e. when you are dealing with user typing something in a text input, scrolling, clicking, etc.

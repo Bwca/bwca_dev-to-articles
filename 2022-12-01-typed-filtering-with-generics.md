@@ -1,3 +1,14 @@
+```ic-metadata
+{
+  "name": "Typed Filtering with Generics in Typescript",
+  "series": null,
+  "date": "2022-12-01",
+  "lastModifiedDate": "2022-12-01",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "tutorial", "generics"]
+}
+```
+
 # Typed Filtering with Generics in Typescript
 
 // NOTE: all links to source code can be found at the end of the article.

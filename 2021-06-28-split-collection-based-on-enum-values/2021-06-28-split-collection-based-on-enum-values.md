@@ -1,4 +1,15 @@
-# Split collection based on enum value with typescript
+```ic-metadata
+{
+  "name": "Split Collection Based on Enum Value with Typescript",
+  "series": null,
+  "date": "2021-06-28",
+  "lastModifiedDate": "2021-06-28",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "tutorial"]
+}
+```
+
+# Split Collection Based on Enum Value with Typescript
 
 Enumerations are an awesome feature of typescript, you can create a set of distinct cases with numeric or string-based enums.
 

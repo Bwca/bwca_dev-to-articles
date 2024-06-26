@@ -1,3 +1,14 @@
+```ic-metadata
+{
+  "name": "Using Classes Inside React's Functional Components",
+  "series": null,
+  "date": "2022-08-22",
+  "lastModifiedDate": "2022-08-22",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "react", "tutorial"]
+}
+```
+
 # Using Classes Inside React's Functional Components
 
 This article is about smashing square shapes into round holes using the force :)

@@ -1,3 +1,17 @@
+```ic-metadata
+{
+  "name": "Create Singleton with ES2022",
+  "series": {
+    "name: "Singleton",
+    "part": 1,
+  },
+  "date": "2022-06-25",
+  "lastModifiedDate": "2022-07-01",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "tutorial", "javascript"]
+}
+```
+
 # Create Singleton with ES2022
 
 Create a singleton? Why? For the glory of OOP, of course!

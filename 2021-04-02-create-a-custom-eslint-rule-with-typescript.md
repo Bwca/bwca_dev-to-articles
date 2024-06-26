@@ -1,3 +1,14 @@
+```ic-metadata
+{
+  "name": "Create a Custom eslint Rule with Typescript",
+  "series": null,
+  "date": "2021-04-02",
+  "lastModifiedDate": "2021-07-11",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "tutorial", "eslint", "npm"]
+}
+```
+
 # Create a Custom eslint Rule with Typescript
 
 Creating custom eslint rules can often come handy. I enjoy using typescript, so I decided I'd share a way how to use its superpowers to create custom eslint rules.

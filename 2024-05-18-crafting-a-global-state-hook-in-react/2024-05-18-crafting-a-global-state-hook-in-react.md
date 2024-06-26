@@ -1,3 +1,14 @@
+```ic-metadata
+{
+  "name": "Crafting a Global State Hook in React",
+  "series": null,
+  "date": "2024-05-18",
+  "lastModifiedDate": "2024-05-18",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "tutorial", "react", "state"]
+}
+```
+
 # Crafting a Global State Hook in React
 
 As usual, the cover image by AI, this time from Gemini.

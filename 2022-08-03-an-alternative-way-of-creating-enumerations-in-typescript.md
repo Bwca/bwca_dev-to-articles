@@ -1,3 +1,14 @@
+```ic-metadata
+{
+  "name": "An Alternative Way of Creating Enumerations in Typescript",
+  "series": null,
+  "date": "2022-08-03",
+  "lastModifiedDate": "2022-08-03",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "tutorial"]
+}
+```
+
 # An Alternative Way of Creating Enumerations in Typescript
 
 (the final code of this article is available [in the playground](https://www.typescriptlang.org/play?target=99&jsx=0#code/AQUwdgrgtsDKEEsAuBnAopGBvAUMYAwgDYQBGKwAvMAOSDGZIPB-NANHnAA4CGAJiBdTUAGZE1b4AIgk5QA9mG79agMzIRbABIhOAJ1RVagUzIVAXxwB6AFQ4EYJCE0AzTgGMQhLd2C58YKSABcwFCRNKwBzAG42FEQkf3hkdEwI4xxHWUDgRzd-AjcqT2BvKD9aAEFnFkjo-yEmHGNgMxMUtKQ4AFUASQAVWF0AHlSwQIA+fOIyFGrGCvxYLl5J2mEZ4AkpWXlq5RX1LVRqgwrDCJwkAE92FzjW6gAKc8vpO3bu2ABKAG0AaxAzp+AHiB-rBOj0ALonQbpAAWGm0i2uuhBrwAdLt4REoa0UPM+LForoajQTlYbPYnC4cpp3PlCsVAsEwOFKsh8cgkjhmkNWplqdlcpR8l4fNUyiAVvgoqylrVjEA).)

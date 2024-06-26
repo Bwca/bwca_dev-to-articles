@@ -1,3 +1,14 @@
+```ic-metadata
+{
+  "name": "Typed Enum Flipping in Typescript",
+  "series": null,
+  "date": "2022-11-09",
+  "lastModifiedDate": "2022-11-09",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "tutorial"]
+}
+```
+
 # Typed Enum Flipping in Typescript
 
 Ever had a situation where you needed to swap key-value pairs of an enum in typescript and attempts to type it resulted in ugly `Record<string, string>` sort of crutch?

@@ -1,3 +1,14 @@
+```ic-metadata
+{
+  "name": "Annoying Cat Extension",
+  "series": null,
+  "date": "2024-03-29",
+  "lastModifiedDate": "2024-03-29",
+  "author": "Volodymyr Yepishev",
+  "tags": ["javascript", "tutorial"]
+}
+```
+
 # Annoying Cat Extension
 
 _The link to the full code for this article is at the end of this article._

@@ -1,3 +1,14 @@
+```ic-metadata
+{
+  "name": "Improving Dynamic Component Loader Typings in Angular Using Inputs",
+  "series": null,
+  "date": "2024-04-15",
+  "lastModifiedDate": "2024-04-15",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "tutorial", "angular", "generics"]
+}
+```
+
 # Improving Dynamic Component Loader Typings in Angular Using Inputs
 
 Cover image by Google's Gemini, I have no idea why it is a skull.

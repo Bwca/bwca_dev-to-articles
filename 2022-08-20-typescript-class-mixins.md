@@ -1,3 +1,14 @@
+```ic-metadata
+{
+  "name": "Typescript Class Mixins",
+  "series": null,
+  "date": "2022-08-20",
+  "lastModifiedDate": "2022-08-20",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "tutorial"]
+}
+```
+
 # Typescript Class Mixins
 
 So let's talk about #typescript, its superpowers and how it can be used for generating new classes on the fly and instantiating classes that do not really exist. We will be creating flying dogs and proud ducks.

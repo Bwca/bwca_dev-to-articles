@@ -1,3 +1,14 @@
+```ic-metadata
+{
+  "name": "Abstracting State Management in React with Typescript, and its Benefits",
+  "series": null,
+  "date": "2024-06-03",
+  "lastModifiedDate": "2024-06-03",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "tutorial", "angular"]
+}
+```
+
 # Abstracting State Management in React with Typescript, and its Benefits
 
 _Bizarre illustration by Google Gemini AI._

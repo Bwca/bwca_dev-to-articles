@@ -1,3 +1,17 @@
+```ic-metadata
+{
+  "name": "Singleton Decorator",
+  "series": {
+    "name: "Singleton",
+    "part": 0,
+  },
+  "date": "2022-07-01",
+  "lastModifiedDate": "2022-07-01",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "tutorial"]
+}
+```
+
 # Singleton Decorator
 
 It turns out it's actually possible to apply singleton pattern using decorators in typescript.

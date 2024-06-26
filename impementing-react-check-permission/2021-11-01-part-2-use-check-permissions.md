@@ -1,3 +1,17 @@
+```ic-metadata
+{
+  "name": "Implementing React Check Permissions. Part 2: Check Permissions Hook",
+  "series": {
+    "name: "Implementing React Check Permissions",
+    "part": 2
+  },
+  "date": "2021-11-01",
+  "lastModifiedDate": "2021-11-01",
+  "author": "Volodymyr Yepishev",
+  "tags": ["typescript", "tutorial", "react"]
+}
+```
+
 # Implementing React Check Permissions. Part 2: Check Permissions Hook
 
 You can follow the code in this article in the [commit](https://github.com/Bwca/implementing-react-check-permissions/commit/3209059e00190392b838913d15c6fc62f4f7ba34) in the repo I made for the series.
