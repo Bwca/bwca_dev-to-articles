@@ -5,7 +5,8 @@
   "date": "2022-08-20",
   "lastModifiedDate": "2022-08-20",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial"]
+  "tags": ["typescript", "tutorial"],
+  "canonicalLink": "https://dev.to/bwca/typescript-class-mixins-3hib"
 }
 ```
 

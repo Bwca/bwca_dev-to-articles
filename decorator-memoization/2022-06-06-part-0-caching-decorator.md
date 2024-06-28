@@ -8,7 +8,8 @@
   "date": "2022-06-06",
   "lastModifiedDate": "2024-06-26",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial", "decorators"]
+  "tags": ["typescript", "tutorial", "decorators"],
+  "canonicalLink": "https://dev.to/bwca/caching-decorator-52e1"
 }
 ```
 

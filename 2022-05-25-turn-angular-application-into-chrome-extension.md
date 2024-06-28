@@ -5,7 +5,8 @@
   "date": "2022-05-25",
   "lastModifiedDate": "2022-05-25",
   "author": "Volodymyr Yepishev",
-  "tags": ["angular", "tutorial", "chrome", "extension"]
+  "tags": ["angular", "tutorial", "chrome", "extension"],
+  "canonicalLink": "https://dev.to/bwca/turn-angular-application-into-chrome-extension-2mkn"
 }
 ```
 

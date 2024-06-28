@@ -5,7 +5,8 @@
   "date": "2022-04-22",
   "lastModifiedDate": "2022-04-22",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial"]
+  "tags": ["typescript", "tutorial"],
+  "canonicalLink": "https://dev.to/bwca/override-method-return-with-a-decorator-1bii"
 }
 ```
 

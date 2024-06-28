@@ -5,7 +5,8 @@
   "date": "2023-11-01",
   "lastModifiedDate": "2023-11-01",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "generics", "tutorial"]
+  "tags": ["typescript", "generics", "tutorial"],
+  "canonicalLink": "https://dev.to/bwca/typing-object-keys-with-enum-values-using-typescript-4k23"
 }
 ```
 

@@ -8,7 +8,8 @@
   "date": "2022-04-06",
   "lastModifiedDate": "2022-04-06",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial"]
+  "tags": ["typescript", "tutorial"],
+  "canonicalLink": "https://dev.to/bwca/polish-types-for-the-new-debounce-function-5e0n"
 }
 ```
 

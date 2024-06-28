@@ -5,7 +5,8 @@
   "date": "2021-04-13",
   "lastModifiedDate": "2021-04-13",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial", "angular", "react"]
+  "tags": ["typescript", "tutorial", "angular", "react"],
+  "canonicalLink": "https://dev.to/bwca/create-object-property-string-path-generator-with-typescript-13e3"
 }
 ```
 

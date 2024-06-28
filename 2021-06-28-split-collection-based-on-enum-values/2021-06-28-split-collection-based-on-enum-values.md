@@ -5,7 +5,8 @@
   "date": "2021-06-28",
   "lastModifiedDate": "2021-06-28",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial"]
+  "tags": ["typescript", "tutorial"],
+  "canonicalLink": "https://dev.to/bwca/split-collection-based-on-enum-value-with-typescript-4g3b"
 }
 ```
 

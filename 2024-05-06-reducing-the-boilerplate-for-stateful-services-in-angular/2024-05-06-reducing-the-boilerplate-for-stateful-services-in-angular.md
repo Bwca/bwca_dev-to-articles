@@ -5,7 +5,8 @@
   "date": "2024-05-06",
   "lastModifiedDate": "2024-05-06",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial", "angular", "rxjs"]
+  "tags": ["typescript", "tutorial", "angular", "rxjs"],
+  "canonicalLink": "https://dev.to/bwca/reducing-the-boilerplate-for-services-utilizing-subjects-in-angular-44fp"
 }
 ```
 

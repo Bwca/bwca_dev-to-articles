@@ -5,7 +5,8 @@
   "date": "2024-03-13",
   "lastModifiedDate": "2024-03-13",
   "author": "Volodymyr Yepishev",
-  "tags": ["javascript", "tutorial"]
+  "tags": ["javascript", "tutorial"],
+  "canonicalLink": "https://dev.to/bwca/how-to-create-bookmarklets-using-libraries-like-react-2bhc"
 }
 ```
 

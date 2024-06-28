@@ -8,7 +8,8 @@
   "date": "2021-11-01",
   "lastModifiedDate": "2021-11-01",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial", "react"]
+  "tags": ["typescript", "tutorial", "react"],
+  "canonicalLink": "https://dev.to/bwca/implementing-react-check-permissions-the-hook-3m20"
 }
 ```
 

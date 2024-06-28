@@ -8,7 +8,8 @@
   "date": "2021-08-26",
   "lastModifiedDate": "2022-04-07",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial"]
+  "tags": ["typescript", "tutorial"],
+  "canonicalLink": "https://dev.to/bwca/create-a-debounce-function-from-scratch-in-typescript-560m"
 }
 ```
 

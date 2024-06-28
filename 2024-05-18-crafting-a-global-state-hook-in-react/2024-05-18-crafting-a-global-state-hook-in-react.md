@@ -5,7 +5,8 @@
   "date": "2024-05-18",
   "lastModifiedDate": "2024-05-18",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial", "react", "state"]
+  "tags": ["typescript", "tutorial", "react", "state"],
+  "canonicalLink": "https://dev.to/bwca/crafting-a-global-state-hook-in-react-4hb4"
 }
 ```
 

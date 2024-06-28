@@ -5,7 +5,8 @@
   "date": "2024-06-03",
   "lastModifiedDate": "2024-06-03",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial", "angular"]
+  "tags": ["typescript", "tutorial", "angular"],
+  "canonicalLink": "https://dev.to/bwca/abstracting-state-management-in-react-with-typescript-and-its-benefits-8mk"
 }
 ```
 

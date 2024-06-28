@@ -8,7 +8,8 @@
   "date": "2022-06-01",
   "lastModifiedDate": "2022-06-01",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial", "microfrontends", "react", "angular"]
+  "tags": ["typescript", "tutorial", "microfrontends", "react", "angular"],
+  "canonicalLink": "https://dev.to/bwca/iframe-microfrontends-make-react-app-proper-iframe-12g9"
 }
 ```
 

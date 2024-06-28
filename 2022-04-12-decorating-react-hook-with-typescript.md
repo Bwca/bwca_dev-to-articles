@@ -5,7 +5,8 @@
   "date": "2022-04-12",
   "lastModifiedDate": "2022-04-12",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial", "react"]
+  "tags": ["typescript", "tutorial", "react"],
+  "canonicalLink": "https://dev.to/bwca/decorating-react-hook-with-typescript-bd9"
 }
 ```
 

@@ -5,7 +5,8 @@
   "date": "2024-03-29",
   "lastModifiedDate": "2024-03-29",
   "author": "Volodymyr Yepishev",
-  "tags": ["javascript", "tutorial"]
+  "tags": ["javascript", "tutorial"],
+  "canonicalLink": "https://dev.to/bwca/annoying-cat-extension-4eaf"
 }
 ```
 

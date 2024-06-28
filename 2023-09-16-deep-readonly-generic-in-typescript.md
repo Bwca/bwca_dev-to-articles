@@ -5,7 +5,8 @@
   "date": "2023-09-16",
   "lastModifiedDate": "2024-06-26",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial"]
+  "tags": ["typescript", "tutorial"],
+  "canonicalLink": "https://dev.to/bwca/deep-readonly-generic-in-typescript-4b04"
 }
 ```
 

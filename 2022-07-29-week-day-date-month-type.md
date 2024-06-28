@@ -5,7 +5,8 @@
   "date": "2022-07-29",
   "lastModifiedDate": "2022-07-29",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial"]
+  "tags": ["typescript", "tutorial"],
+  "canonicalLink": "https://dev.to/bwca/weekday-date-month-type-26j4"
 }
 ```
 

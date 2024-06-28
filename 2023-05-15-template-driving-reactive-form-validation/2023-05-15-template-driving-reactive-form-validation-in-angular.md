@@ -5,7 +5,8 @@
   "date": "2023-05-15",
   "lastModifiedDate": "2023-05-15",
   "author": "Volodymyr Yepishev",
-  "tags": ["angular"]
+  "tags": ["angular"],
+  "canonicalLink": "https://dev.to/bwca/template-driving-reactive-form-validation-in-angular-302e"
 }
 ```
 

@@ -5,7 +5,8 @@
   "date": "2022-08-29",
   "lastModifiedDate": "2022-08-29",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "angular", "tutorial"]
+  "tags": ["typescript", "angular", "tutorial"],
+  "canonicalLink": "https://dev.to/bwca/debouncing-component-methods-in-angular-34im"
 }
 ```
 

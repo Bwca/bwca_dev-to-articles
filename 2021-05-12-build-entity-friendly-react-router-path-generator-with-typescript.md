@@ -5,7 +5,8 @@
   "date": "2021-05-12",
   "lastModifiedDate": "2021-05-12",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial", "react"]
+  "tags": ["typescript", "tutorial", "react"],
+  "canonicalLink": "https://dev.to/bwca/build-entity-friendly-react-router-paths-generator-with-typescript-fpd"
 }
 ```
 

@@ -8,7 +8,8 @@
   "date": "2022-05-31",
   "lastModifiedDate": "2022-05-31",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial", "microfrontends", "react", "angular"]
+  "tags": ["typescript", "tutorial", "microfrontends", "react", "angular"],
+  "canonicalLink": "https://dev.to/bwca/iframe-microfrontends-standalone-react-application-341f"
 }
 ```
 

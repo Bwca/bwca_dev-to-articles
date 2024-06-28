@@ -5,7 +5,8 @@
   "date": "2022-08-22",
   "lastModifiedDate": "2022-08-22",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "react", "tutorial"]
+  "tags": ["typescript", "react", "tutorial"],
+  "canonicalLink": "https://dev.to/bwca/using-classes-inside-reacts-functional-components-oj3"
 }
 ```
 

@@ -5,7 +5,8 @@
   "date": "2023-07-22",
   "lastModifiedDate": "2023-07-28",
   "author": "Volodymyr Yepishev",
-  "tags": ["angular", "tutorial", "routing", "generics"]
+  "tags": ["angular", "tutorial", "routing", "generics"],
+  "canonicalLink": "https://dev.to/bwca/safe-route-param-injection-in-angular-with-a-decorator-1lk7"
 }
 ```
 

@@ -5,7 +5,8 @@
   "date": "2022-12-01",
   "lastModifiedDate": "2022-12-01",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial", "generics"]
+  "tags": ["typescript", "tutorial", "generics"],
+  "canonicalLink": "https://dev.to/bwca/typed-filtering-with-generics-in-typescript-204f"
 }
 ```
 

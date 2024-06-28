@@ -5,7 +5,8 @@
   "date": "2021-04-02",
   "lastModifiedDate": "2021-07-11",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial", "eslint", "npm"]
+  "tags": ["typescript", "tutorial", "eslint", "npm"],
+  "canonicalLink": "https://dev.to/bwca/create-a-custom-eslint-rule-with-typescript-4j3d"
 }
 ```
 

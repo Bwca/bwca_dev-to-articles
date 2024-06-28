@@ -5,7 +5,8 @@
   "date": "2022-11-09",
   "lastModifiedDate": "2022-11-09",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial"]
+  "tags": ["typescript", "tutorial"],
+  "canonicalLink": "https://dev.to/bwca/typed-enum-flipping-in-typescript-2ce9"
 }
 ```
 

@@ -5,7 +5,8 @@
   "date": "2022-03-29",
   "lastModifiedDate": "2022-03-29",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial", "react"]
+  "tags": ["typescript", "tutorial", "react"],
+  "canonicalLink": "https://dev.to/bwca/remove-double-imports-with-regular-expression-47af"
 }
 ```
 

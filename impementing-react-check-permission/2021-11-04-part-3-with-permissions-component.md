@@ -8,7 +8,8 @@
   "date": "2021-11-04",
   "lastModifiedDate": "2021-11-04",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial", "react"]
+  "tags": ["typescript", "tutorial", "react"],
+  "canonicalLink": "https://dev.to/bwca/implementing-react-check-permissions-the-component-3gjm"
 }
 ```
 

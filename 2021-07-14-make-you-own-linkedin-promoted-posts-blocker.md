@@ -5,7 +5,8 @@
   "date": "2021-07-14",
   "lastModifiedDate": "2021-07-14",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial"]
+  "tags": ["typescript", "tutorial"],
+  "canonicalLink": "https://dev.to/bwca/make-your-own-linkedin-promoted-posts-blocker-fj5"
 }
 ```
 

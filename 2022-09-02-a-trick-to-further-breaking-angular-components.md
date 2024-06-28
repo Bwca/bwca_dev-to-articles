@@ -5,7 +5,8 @@
   "date": "2022-09-02",
   "lastModifiedDate": "2022-09-02",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "angular"]
+  "tags": ["typescript", "angular"],
+  "canonicalLink": "https://dev.to/bwca/a-trick-to-further-breaking-down-angular-components-1i8a"
 }
 ```
 

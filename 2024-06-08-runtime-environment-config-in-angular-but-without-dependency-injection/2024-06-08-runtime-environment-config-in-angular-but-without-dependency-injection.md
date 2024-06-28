@@ -5,7 +5,8 @@
   "date": "2024-06-08",
   "lastModifiedDate": "2024-06-08",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial", "angular"]
+  "tags": ["typescript", "tutorial", "angular"],
+  "canonicalLink": "https://dev.to/bwca/runtime-environment-config-in-angular-but-without-dependency-injection-kno"
 }
 ```
 

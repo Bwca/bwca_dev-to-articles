@@ -5,7 +5,8 @@
   "date": "2022-06-30",
   "lastModifiedDate": "2022-06-30",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial", "generics", "conversion", "date", "moment"]
+  "tags": ["typescript", "tutorial", "generics", "conversion", "date", "moment"],
+  "canonicalLink": "https://dev.to/bwca/typed-dates-conversion-with-typescript-49n7"
 }
 ```
 

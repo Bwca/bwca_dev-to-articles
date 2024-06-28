@@ -8,7 +8,8 @@
   "date": "2022-07-01",
   "lastModifiedDate": "2022-07-01",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial"]
+  "tags": ["typescript", "tutorial"],
+  "canonicalLink": "https://dev.to/bwca/singleton-decorator-526h"
 }
 ```
 

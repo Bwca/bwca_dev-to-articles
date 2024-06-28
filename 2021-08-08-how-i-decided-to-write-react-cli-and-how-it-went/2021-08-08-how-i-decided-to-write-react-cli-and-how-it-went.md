@@ -5,7 +5,8 @@
   "date": "2021-08-08",
   "lastModifiedDate": "2021-08-08",
   "author": "Volodymyr Yepishev",
-  "tags": ["angular"]
+  "tags": ["angular"],
+  "canonicalLink": "https://dev.to/bwca/how-i-decided-to-write-react-cli-and-how-it-went-4f19"
 }
 ```
 

@@ -5,7 +5,8 @@
   "date": "2022-08-03",
   "lastModifiedDate": "2022-08-03",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial"]
+  "tags": ["typescript", "tutorial"],
+  "canonicalLink": "https://dev.to/bwca/an-alternative-way-of-creating-enumerations-in-typescript-579k"
 }
 ```
 

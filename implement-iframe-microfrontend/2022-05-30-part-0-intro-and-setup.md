@@ -8,7 +8,8 @@
   "date": "2022-05-30",
   "lastModifiedDate": "2022-05-30",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial", "microfrontends", "react", "angular"]
+  "tags": ["typescript", "tutorial", "microfrontends", "react", "angular"],
+  "canonicalLink": "https://dev.to/bwca/iframe-microfrontends-intro-and-setup-1g7h"
 }
 ```
 

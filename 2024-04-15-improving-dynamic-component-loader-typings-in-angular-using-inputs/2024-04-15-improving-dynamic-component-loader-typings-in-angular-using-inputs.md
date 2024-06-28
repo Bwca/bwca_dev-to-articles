@@ -5,7 +5,8 @@
   "date": "2024-04-15",
   "lastModifiedDate": "2024-04-15",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial", "angular", "generics"]
+  "tags": ["typescript", "tutorial", "angular", "generics"],
+  "canonicalLink": "https://dev.to/bwca/improving-dynamic-component-loader-typings-in-angular-using-inputs-obl"
 }
 ```
 

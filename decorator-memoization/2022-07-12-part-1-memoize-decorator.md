@@ -8,7 +8,8 @@
   "date": "2022-07-12",
   "lastModifiedDate": "2022-07-12",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial", "decorators"]
+  "tags": ["typescript", "tutorial", "decorators"],
+  "canonicalLink": "https://dev.to/bwca/memoize-decorator-5aoo"
 }
 ```
 

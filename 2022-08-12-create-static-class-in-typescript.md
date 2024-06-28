@@ -5,7 +5,8 @@
   "date": "2022-08-12",
   "lastModifiedDate": "2022-08-12",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial"]
+  "tags": ["typescript", "tutorial"],
+  "canonicalLink": "https://dev.to/bwca/create-a-static-class-in-typescript-5ao1"
 }
 ```
 

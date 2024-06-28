@@ -8,7 +8,8 @@
   "date": "2022-06-25",
   "lastModifiedDate": "2022-07-01",
   "author": "Volodymyr Yepishev",
-  "tags": ["typescript", "tutorial", "javascript"]
+  "tags": ["typescript", "tutorial", "javascript"],
+  "canonicalLink": "https://dev.to/bwca/create-singleton-with-es2022-51ic"
 }
 ```
 
