@@ -3,7 +3,7 @@
   "name": "Create Object Property String Path Generator with Typescript",
   "series": null,
   "date": "2021-04-13",
-  "lastModifiedDate": "2021-04-13",
+  "lastModifiedDate": "2024-07-09",
   "author": "Volodymyr Yepishev",
   "tags": ["typescript", "tutorial", "angular", "react"],
   "canonicalLink": "https://dev.to/bwca/create-object-property-string-path-generator-with-typescript-13e3"
@@ -29,7 +29,7 @@ Typescript 4 bring along amazing stuff: [Template Literal Types
 
 Now, using this amazing feature we can create a type with infinite recursion and a helper function to generate all possible property paths an object has for us.
 
-Check this out. First let us create a type that would basically be a colletion of all possible string paths in an object:
+Check this out. First let us create a type that would basically be a collection of all possible string paths in an object:
 
 ```typescript
 // For convenience

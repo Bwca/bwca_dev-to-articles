@@ -6,7 +6,7 @@
     "part": 2
   },
   "date": "2022-05-31",
-  "lastModifiedDate": "2022-05-31",
+  "lastModifiedDate": "2024-07-09",
   "author": "Volodymyr Yepishev",
   "tags": ["typescript", "tutorial", "microfrontends", "react", "angular"],
   "canonicalLink": "https://dev.to/bwca/iframe-microfrontends-angular-shell-pmj"
@@ -106,7 +106,7 @@ const routes: Routes = [{ path: '', component: FrameComponent }];
 export class FrameModule {}
 ```
 
-Time to update our `ActivityService`, for the sake of sadness let's add a filter to the api request so it only requests activities for one participant.
+Time to update our `ActivityService`, for the sake of sadness let's add a filter to the api request, so it only requests activities for one participant.
 
 ```typescript
 // ./apps/angular-shell/src/app/frame/services/activity.service.ts
@@ -195,7 +195,7 @@ export const environment = {
 ```
 
 Now we are ready to update `FrameComponent`. So what's the plan for it? It should contain only 1 element, the `iframe`, pass reference to it to the `MessageService` and alert it every time it detects the `message` event. For these we will utilize:
-* `DomSanitizer` to sanitize the environmel url and throw it into `iframe`'s src;
+* `DomSanitizer` to sanitize the environment url and throw it into `iframe`'s src;
 * `ViewChild` decorator to obtain reference to the `iframe`;
 * `HostListener` decorator to listen to the events;
 * `AfterViewInit` hook to detect when the `iframe` is available in DOM.

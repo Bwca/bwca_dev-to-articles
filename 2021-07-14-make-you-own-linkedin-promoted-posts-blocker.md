@@ -3,16 +3,16 @@
   "name": "Make Your Own Linkedin Promoted Posts Blocker",
   "series": null,
   "date": "2021-07-14",
-  "lastModifiedDate": "2021-07-14",
+  "lastModifiedDate": "2024-07-09",
   "author": "Volodymyr Yepishev",
   "tags": ["typescript", "tutorial"],
   "canonicalLink": "https://dev.to/bwca/make-your-own-linkedin-promoted-posts-blocker-fj5"
 }
 ```
 
-# Make Your Own Linkedin Promoted Posts Blocker
+# Make Your Own LinkedIn Promoted Posts Blocker
 
-So the other day I was browsing Linkedin and figured out there was a number of re-occuring posts in my feed. At first I paid no attention to them, but as they hang on for days, I took a closer look and figuired out those were promoted.
+So the other day I was browsing LinkedIn and figured out there was a number of re-occurring posts in my feed. At first, I paid no attention to them, but as they hang on for days, I took a closer look and figured out those were promoted.
 
 Well, that's not the UX I choose, so I decided I'd write a browser extension to remove them and share a story how to make one.
 

@@ -6,7 +6,7 @@
     "part": 1
   },
   "date": "2022-04-06",
-  "lastModifiedDate": "2022-04-06",
+  "lastModifiedDate": "2024-07-09",
   "author": "Volodymyr Yepishev",
   "tags": ["typescript", "tutorial"],
   "canonicalLink": "https://dev.to/bwca/polish-types-for-the-new-debounce-function-5e0n"
@@ -15,7 +15,7 @@
 
 # Polish Types for the New Debounce Function
 
-There is always a room for improvement, so let's take a look what can be improved in the debounce function we've created in the previos article:
+There is always a room for improvement, so let's take a look what can be improved in the debounce function we've created in the previous article:
 
 ```typescript
 // debounce.function.ts
@@ -56,9 +56,9 @@ let timer: ReturnType<typeof setTimeout>;
 
 So timer is whatever `setTimeout` returns, no arguing that.
 
-Now perhaps to the most interesting part: allow passing to the debounce function any amount of arguments of any type instead of one stictly typed object.
+Now perhaps to the most interesting part: allow passing to the debounce function any amount of arguments of any type instead of one strictly typed object.
 
-To get there first we need to understand an interface that is applicaple to any function in typescript, if we gave it a name, and let's say, called it `FunctionWithArguments`, it would look the following way:
+To get there first we need to understand an interface that is applicable to any function in typescript, if we gave it a name, and let's say, called it `FunctionWithArguments`, it would look the following way:
 
 ```typescript
 // ./models/function-with-arguments.model.ts

@@ -3,7 +3,7 @@
   "name": "How I Decided to Write React cli and How it Went",
   "series": null,
   "date": "2021-08-08",
-  "lastModifiedDate": "2021-08-08",
+  "lastModifiedDate": "2024-07-09",
   "author": "Volodymyr Yepishev",
   "tags": ["angular"],
   "canonicalLink": "https://dev.to/bwca/how-i-decided-to-write-react-cli-and-how-it-went-4f19"
@@ -12,7 +12,7 @@
 
 # How I Decided to Write React cli and How it Went
 
-Perhaps I am spoiled beyond salvation by angular cli, which is an incredible tool that lets you create components with as little as some keystrokes, but every time I need to create a react component, I found the process quite tedious and repetitive.
+Perhaps I am spoiled beyond salvation by angular cli, which is an incredible tool that lets you create components with as little as some keystrokes, but every time I need to create a React component, I found the process quite tedious and repetitive.
 
 - create a component file;
 - create a separate file to hold the interface of its props;
@@ -21,11 +21,11 @@ Perhaps I am spoiled beyond salvation by angular cli, which is an incredible too
 - create file for tests;
 - create a story maybe?
 
-That is alot of files in the first place, however you are still supposed to add some crucial boilerplate some of these files before you can proceed working on your component.
+That is a lot of files in the first place, however you are still supposed to add some crucial boilerplate some of these files before you can proceed working on your component.
 
 Can we fix it? Yes, we can, thought I and wrote a first pretty basic cli command for generating component/props/index files from a given path when invoked. I put it on the github and invoked via npx. It did its job, but it lacked flexibility. The boilerplate it used for generating files was basically set in stone, so I could use it only for generating components only according to some predefined pattern.
 
-I obviously needed a better tool to generate my react components. A tool more flexible and extensible. But how to make such flexible tool that would not dictate me how my components are made? I turned to logic-less templates and came up with the idea of having a templates folder filled with subfolders named as entities that the cli tool would generate, i.e. `component`, `hook`, `story`, etc.
+I obviously needed a better tool to generate my react components. A tool more flexible and extensible. But how to make such flexible tool that would not dictate me how my components are made? I turned to logic-less templates and came up with the idea of having a templates folder filled with sub-folders named as entities that the cli tool would generate, i.e. `component`, `hook`, `story`, etc.
 
 ```txt
 📂───templates
@@ -39,11 +39,11 @@ I obviously needed a better tool to generate my react components. A tool more fl
 │   │  │   ...
 ```
 
-At that point it became obviously that such tool can be completely franework agnostic and could generate any number of files using given templates folder and subfolder name. What was needed to be figured out was the arguments it would accept.
+At that point it became obviously that such tool can be completely framework-agnostic and could generate any number of files using given templates folder and sub-folder name. What was needed to be figured out was the arguments it would accept.
 
 I came up with two required, one being the path of the item to generate, i.e. `components/MyNewComponent` and the second the `itemType`, which corresponds to the name of a subfolder in the templated directory. I also decided it would be cool to have two optional ones, `templatesRoot` to provide a custom folder with templates and `nameCase`, so you can pass a path as `components/my-new-component` and still get `MyNewComponent` as the component name for the react component.
 
-It looked great and it did not seem to be bound to a certain framework anymore. With mustache I could come up with a any template and pass any number of key-value pairs to my tool for substitutions, i.e. I could make a text file template
+It looked great, and it did not seem to be bound to a certain framework anymore. With mustache, I could come up with a any template and pass any number of key-value pairs to my tool for substitutions, i.e. I could make a text file template
 
 ```text
 // ./templates/random/random.txt.mustache
@@ -66,4 +66,4 @@ Now I can create react components and hooks with a single command even without i
 npx @merry-solutions/cli Header --itemType=component
 ```
 
-So what's the moral of the story here? Make tools, it's cool and sometimes you can make something that is even more useful than you might anticipate at first ^_^
+So what's the moral of the story here? Make tools, it's cool, and sometimes you can make something that is even more useful than you might anticipate at first ^_^

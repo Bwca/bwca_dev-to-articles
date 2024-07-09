@@ -3,7 +3,7 @@
   "name": "Improving Dynamic Component Loader Typings in Angular Using Inputs",
   "series": null,
   "date": "2024-04-15",
-  "lastModifiedDate": "2024-04-15",
+  "lastModifiedDate": "2024-07-09",
   "author": "Volodymyr Yepishev",
   "tags": ["typescript", "tutorial", "angular", "generics"],
   "canonicalLink": "https://dev.to/bwca/improving-dynamic-component-loader-typings-in-angular-using-inputs-obl"
@@ -11,8 +11,6 @@
 ```
 
 # Improving Dynamic Component Loader Typings in Angular Using Inputs
-
-Cover image by Google's Gemini, I have no idea why it is a skull.
 
 When I first read about signals in Angular, I was not very amused about two ways of declaring inputs and outputs on the component. However, I figured I would figure out something interesting with those eventually, and I actually did.
 

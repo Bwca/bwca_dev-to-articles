@@ -3,7 +3,7 @@
   "name": "Template Driving Reactive Form Validation in Angular",
   "series": null,
   "date": "2023-05-15",
-  "lastModifiedDate": "2023-05-15",
+  "lastModifiedDate": "2024-07-09",
   "author": "Volodymyr Yepishev",
   "tags": ["angular"],
   "canonicalLink": "https://dev.to/bwca/template-driving-reactive-form-validation-in-angular-302e"
@@ -102,6 +102,6 @@ This hides all the field relation logic under the rug and allows writing pretty 
     <legend>Contact Information</legend>
 ```
 
-Quite simple, eh? So what's the catch here. It's on the surface really: since enabling/disabling separate parts of the form is delegated to the directive in the template, a good old misplaced `*ngIf` somewhre higher in the hierarchy could throw a wrench into this approach, so these both should not share governing control visibility.
+Quite simple, eh? So what's the catch here. It's on the surface really: since enabling/disabling separate parts of the form is delegated to the directive in the template, a good old misplaced `*ngIf` somewhere higher in the hierarchy could throw a wrench into this approach, so these both should not share governing control visibility.
 
 So with a caveat, this approach could be viable sometimes :)

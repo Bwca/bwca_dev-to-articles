@@ -3,7 +3,7 @@
   "name": "Runtime Environment Config in Angular, but without Dependency Injection",
   "series": null,
   "date": "2024-06-08",
-  "lastModifiedDate": "2024-06-08",
+  "lastModifiedDate": "2024-07-09",
   "author": "Volodymyr Yepishev",
   "tags": ["typescript", "tutorial", "angular"],
   "canonicalLink": "https://dev.to/bwca/runtime-environment-config-in-angular-but-without-dependency-injection-kno"
@@ -11,8 +11,6 @@
 ```
 
 # Runtime Environment Config in Angular, but without Dependency Injection
-
-Cover image by Nightcafe, because Gemeni refuses to make images :/
 
 The link to the repo for the code used in the article is provided at the end.
 
@@ -65,7 +63,7 @@ The first things that needs to be done is converting the environment typescript 
 "generate-env": "npx ts-node -O \"{\\\"module\\\":\\\"commonjs\\\"}\" -e \"const fs = require('fs'); const path = require('path'); const { environment } = require(path.join(process.cwd(), './src/environments/', (process.argv[1] || 'environment.development.ts'))); fs.writeFileSync(path.join(process.cwd(), './src/assets/environment.json'), JSON.stringify(environment));\""
 ```
 
-Looks like a screenshot from war crimes in programming youtube video, I know. Essentially it is an inlined javascript snippet, here is how it looks formatted:
+Looks like a screenshot from war crimes in programming YouTube video, I know. Essentially it is an inlined javascript snippet, here is how it looks formatted:
 ```javascript
 const fs = require('fs'); 
 const path = require('path'); 

@@ -3,7 +3,7 @@
   "name": "Typing Object Keys With Enum Values Using Typescript",
   "series": null,
   "date": "2023-11-01",
-  "lastModifiedDate": "2023-11-01",
+  "lastModifiedDate": "2024-07-09",
   "author": "Volodymyr Yepishev",
   "tags": ["typescript", "generics", "tutorial"],
   "canonicalLink": "https://dev.to/bwca/typing-object-keys-with-enum-values-using-typescript-4k23"
@@ -37,7 +37,7 @@ The generics here represent the following:
 Simple as that, this is all the heavy lifting that needs to be done, what is left now is to implement the interface for a couple of use cases.
 
 ## Case 1: Grading students
-Consider the following situation: students have written a test and we want to collect data, how many occurrences of each grade there is in the test.
+Consider the following situation: students have written a test, and we want to collect data, how many occurrences of each grade there is in the test.
 
 We will be using both types of enumerations for demo purposes:
 ```typescript

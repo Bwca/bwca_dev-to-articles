@@ -3,7 +3,7 @@
   "name": "Build Entity-Friendly react-router Paths Generator with Typescript",
   "series": null,
   "date": "2021-05-12",
-  "lastModifiedDate": "2021-05-12",
+  "lastModifiedDate": "2024-07-09",
   "author": "Volodymyr Yepishev",
   "tags": ["typescript", "tutorial", "react"],
   "canonicalLink": "https://dev.to/bwca/build-entity-friendly-react-router-paths-generator-with-typescript-fpd"
@@ -12,7 +12,7 @@
 
 # Build Entity-Friendly react-router Paths Generator with Typescript
 
-So the other day I was thinking if it is possible to create a route generator that would be of any use and would respect entities in URLS, i.e. `:entity(post|article)`.
+So the other day I was thinking if it is possible to create a route generator that would be of any use and would respect entities in URLs, i.e. `:entity(post|article)`.
 
 Naturally, `react-router` provides means of generating paths, the `generatePath` function, and while the `@types/react-router` types package does pretty decent job securing the param names, as of yet, it leaves entities vulnerable, without any kind of restrictions, they are treated same as any other param, meaning you can drop `string | number | boolean` into them.
 

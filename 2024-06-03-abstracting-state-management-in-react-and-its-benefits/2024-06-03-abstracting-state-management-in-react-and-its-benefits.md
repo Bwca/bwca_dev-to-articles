@@ -3,7 +3,7 @@
   "name": "Abstracting State Management in React with Typescript, and its Benefits",
   "series": null,
   "date": "2024-06-03",
-  "lastModifiedDate": "2024-06-03",
+  "lastModifiedDate": "2024-07-09",
   "author": "Volodymyr Yepishev",
   "tags": ["typescript", "tutorial", "angular"],
   "canonicalLink": "https://dev.to/bwca/abstracting-state-management-in-react-with-typescript-and-its-benefits-8mk"
@@ -11,8 +11,6 @@
 ```
 
 # Abstracting State Management in React with Typescript, and its Benefits
-
-_Bizarre illustration by Google Gemini AI._
 
 State management is something unavoidable on the UI, be it local component scoped, or global, which in some enterprise applications can grow to gargantuan sizes.
 

@@ -6,7 +6,7 @@
     "part": 1
   },
   "date": "2022-05-31",
-  "lastModifiedDate": "2022-05-31",
+  "lastModifiedDate": "2024-07-09",
   "author": "Volodymyr Yepishev",
   "tags": ["typescript", "tutorial", "microfrontends", "react", "angular"],
   "canonicalLink": "https://dev.to/bwca/iframe-microfrontends-standalone-react-application-341f"
@@ -171,4 +171,4 @@ export function Activity() {
 }
 ```
 
-It's ugly and it works, that's all that matters, and that's the end for this part. In the next part we'll work in the `Angular` shell app.
+It's ugly, and it works, that's all that matters, and that's the end for this part. In the next part we'll work in the `Angular` shell app.

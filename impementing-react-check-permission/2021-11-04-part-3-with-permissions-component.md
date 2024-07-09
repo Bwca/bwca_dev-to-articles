@@ -6,7 +6,7 @@
     "part": 3
   },
   "date": "2021-11-04",
-  "lastModifiedDate": "2021-11-04",
+  "lastModifiedDate": "2024-07-09",
   "author": "Volodymyr Yepishev",
   "tags": ["typescript", "tutorial", "react"],
   "canonicalLink": "https://dev.to/bwca/implementing-react-check-permissions-the-component-3gjm"
@@ -64,7 +64,7 @@ export function createWithPermissionsWrapper(useCheckPermissions: UseCheckPermis
 
 Note how the factory expects a hook. It does not create it, it only ensures this dependency is injected into its produced component.
 
-Of course we're going to throw some more tests to ensure the wrapper component actually works. Good that we've already installed dependencies for testing hooks:
+Of course, we're going to throw some more tests to ensure the wrapper component actually works. Good that we've already installed dependencies for testing hooks:
 
 ```typescript
 import { render } from '@testing-library/react';

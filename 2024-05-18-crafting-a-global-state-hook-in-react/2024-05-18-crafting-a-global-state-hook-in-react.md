@@ -3,7 +3,7 @@
   "name": "Crafting a Global State Hook in React",
   "series": null,
   "date": "2024-05-18",
-  "lastModifiedDate": "2024-05-18",
+  "lastModifiedDate": "2024-07-09",
   "author": "Volodymyr Yepishev",
   "tags": ["typescript", "tutorial", "react", "state"],
   "canonicalLink": "https://dev.to/bwca/crafting-a-global-state-hook-in-react-4hb4"
@@ -11,8 +11,6 @@
 ```
 
 # Crafting a Global State Hook in React
-
-As usual, the cover image by AI, this time from Gemini.
 
 The article features typescript generics, run before you can.
 

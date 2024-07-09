@@ -6,7 +6,7 @@
     "part": 1
   },
   "date": "2022-07-12",
-  "lastModifiedDate": "2022-07-12",
+  "lastModifiedDate": "2024-07-09",
   "author": "Volodymyr Yepishev",
   "tags": ["typescript", "tutorial", "decorators"],
   "canonicalLink": "https://dev.to/bwca/memoize-decorator-5aoo"
@@ -21,7 +21,7 @@ Let's think of a better solution, that would be more flexible. Something that:
 * does not make assumptions about the key used for storing memoized result;
 * has a mechanism for clearing the cache;
 * can have debugging capabilities;
-* can use either Map or Weakmap for storage.
+* can use either `Map` or `WeakMap` for storage.
 
 Since in `js` we can pass function as arguments, it allows us to have great flexibility: we can pass a function to extract unique id from arguments, which we later can use as a key to memoize a result, instead of using an argument as a key, which was the case with the previous decorator.
 

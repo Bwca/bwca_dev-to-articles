@@ -3,7 +3,7 @@
   "name": "Annoying Cat Extension",
   "series": null,
   "date": "2024-03-29",
-  "lastModifiedDate": "2024-03-29",
+  "lastModifiedDate": "2024-07-09",
   "author": "Volodymyr Yepishev",
   "tags": ["javascript", "tutorial"],
   "canonicalLink": "https://dev.to/bwca/annoying-cat-extension-4eaf"
@@ -246,7 +246,7 @@ function reset(img, dir) {
 }
 ```
 
-The function to make image slide out from random direction can be crafted using a factory, which accepts the image itself and a cooldown timer:
+The function to make image slide out from random direction can be crafted using a factory, which accepts the image itself and a cool down timer:
 
 ```javascript
 function createSlideOutFunction(img, showUpCoolDown) {

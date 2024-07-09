@@ -3,7 +3,7 @@
   "name": "Deep Readonly Generic in Typescript",
   "series": null,
   "date": "2023-09-16",
-  "lastModifiedDate": "2024-06-26",
+  "lastModifiedDate": "2024-07-09",
   "author": "Volodymyr Yepishev",
   "tags": ["typescript", "tutorial"],
   "canonicalLink": "https://dev.to/bwca/deep-readonly-generic-in-typescript-4b04"
@@ -19,7 +19,6 @@ type DeepReadonly<T> = {
 };
 ```
 
-The image is how NightCafe sees _deep readonly type_.
 The link to the playground for this article is down below.
 
 Immutability could be useful for certain cases when building applications, and today we will take a look how to enforce immutability using Typescript.

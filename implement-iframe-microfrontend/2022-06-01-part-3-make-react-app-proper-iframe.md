@@ -6,7 +6,7 @@
     "part": 3
   },
   "date": "2022-06-01",
-  "lastModifiedDate": "2022-06-01",
+  "lastModifiedDate": "2024-07-09",
   "author": "Volodymyr Yepishev",
   "tags": ["typescript", "tutorial", "microfrontends", "react", "angular"],
   "canonicalLink": "https://dev.to/bwca/iframe-microfrontends-make-react-app-proper-iframe-12g9"
@@ -61,7 +61,7 @@ export function useActivityFromMessage(): ActivityItem | null {
 }
 ```
 
-Looks fairly straightforward, doesn't it? We add a listener and every time activity comes down (for the sake of simplicity we are not performing any checks here, i.e. if it is really `ActivityItem`, etc.), we throw it into `useState` and send it further to whoever is using the hook. This hook has no idea how the acitvity is further delivered and that's the marvel of it.
+Looks fairly straightforward, doesn't it? We add a listener and every time activity comes down (for the sake of simplicity we are not performing any checks here, i.e. if it is really `ActivityItem`, etc.), we throw it into `useState` and send it further to whoever is using the hook. This hook has no idea how the activity is further delivered and that's the marvel of it.
 
 Now we need our last hook, which will provide means for requesting activity from the parent window and return the result which it will obtain from our recently created `useActivityFromMessage`.
 

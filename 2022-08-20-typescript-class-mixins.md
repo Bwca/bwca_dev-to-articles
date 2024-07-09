@@ -3,7 +3,7 @@
   "name": "Typescript Class Mixins",
   "series": null,
   "date": "2022-08-20",
-  "lastModifiedDate": "2022-08-20",
+  "lastModifiedDate": "2024-07-09",
   "author": "Volodymyr Yepishev",
   "tags": ["typescript", "tutorial"],
   "canonicalLink": "https://dev.to/bwca/typescript-class-mixins-3hib"
@@ -12,11 +12,11 @@
 
 # Typescript Class Mixins
 
-So let's talk about #typescript, its superpowers and how it can be used for generating new classes on the fly and instantiating classes that do not really exist. We will be creating flying dogs and proud ducks.
+So let's talk about `typescript`, its superpowers and how it can be used for generating new classes on the fly and instantiating classes that do not really exist. We will be creating flying dogs and proud ducks.
 
-Perhaps, one of the most fascinating features of #typescript is its mixins, which allow molding of classes (and not only those). In this article we will discover how mixin a base class can be used to create four different derived classes. It was quite fun to discover.
+Perhaps, one of the most fascinating features of `typescript` is its mixins, which allow molding of classes (and not only those). In this article we will discover how mixin a base class can be used to create four different derived classes. It was quite fun to discover.
 
-The cover image for this article is not random, to an extent it inspired the article. So let us think how we could use #typescript to create instances of a dog, fish, chicken and a duck. When you think about them, the obviously should have some sort of a super class. They also implement different ways of movement. For simplicity let us assume that some features are implemented the same way across their classes, i.e. walking is same for the dog and the chicken (though realistically chickens do not walk on four legs).
+Let us think how we could use `typescript` to create instances of a dog, fish, chicken and a duck. When you think about them, they obviously should have some sort of super class. They also implement different ways of movement. For simplicity let us assume that some features are implemented the same way across their classes, i.e. walking is same for the dog and the chicken (though realistically chickens do not walk on four legs).
 
 Now we can assume the superclass, which is going to be our base:
 
@@ -27,7 +27,7 @@ class Animal {
 ```
 
 Plain and simple, an animal that has a name.
-Our animals implement different ways of moving around, which can be described with #typescript interfaces:
+Our animals implement different ways of moving around, which can be described with `typescript` interfaces:
 ```typescript
 interface IFly {
   fly(): void;
