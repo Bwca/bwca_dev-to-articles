@@ -3,10 +3,10 @@
   "name": "The Hidden AI Tax on Tech Debt",
   "series": null,
   "date": "2025-11-17",
-  "lastModifiedDate": "2025-11-17",
+  "lastModifiedDate": "2025-11-18",
   "author": "Volodymyr Yepishev",
-  "tags": ["ai", "tech-debt"],
-  "canonicalLink": null
+  "tags": ["ai", "architecture", "productivity"],
+  "canonicalLink": "https://dev.to/bwca/the-hidden-ai-tax-on-tech-debt-4k10"
 }
 ```
 
