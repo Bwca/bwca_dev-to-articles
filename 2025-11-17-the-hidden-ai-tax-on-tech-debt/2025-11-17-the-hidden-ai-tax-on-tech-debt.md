@@ -6,7 +6,7 @@
   "lastModifiedDate": "2025-11-17",
   "author": "Volodymyr Yepishev",
   "tags": ["ai", "tech-debt"],
-  "canonicalLink": ""
+  "canonicalLink": null
 }
 ```
 

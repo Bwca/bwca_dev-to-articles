@@ -6,7 +6,7 @@
   "lastModifiedDate": "2025-11-22",
   "author": "Volodymyr Yepishev",
   "tags": ["ai", "tutorial", "e2e"],
-  "canonicalLink": ""
+  "canonicalLink": null
 }
 ```
 
